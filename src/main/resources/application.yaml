@@ -37,10 +37,10 @@ springdoc:
   swagger-ui:
     path: /swagger.html
 file:
-  dir: D:/home/download
-  imgPath: http://192.168.0.144:5003/img/hiSchool/userPic
-  aprimgPath: http://192.168.0.144:5003/img/hiSchool/userApr
-  logoPath: http://192.168.0.144:5003/logo
+  dir: /app/hischool
+  imgPath: /img/hiSchool/userPic
+  aprimgPath: /img/hiSchool/userApr
+  logoPath: /logo
 my-api:
   key: 9a7b0b8f560b480abf0d0cb941af2bea
   key2: 9dd88f65ea0be9e40510e536212d21fe
